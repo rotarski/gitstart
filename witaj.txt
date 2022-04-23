@@ -1,1 +1,2 @@
-Pierwszy plik
+witaj z echo
+druga linia

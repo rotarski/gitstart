@@ -1,0 +1,8 @@
+diff --git a/witaj.txt b/witaj.txt
+index 80152c4..f68894f 100644
+--- a/witaj.txt
++++ b/witaj.txt
+@@ -1,2 +1,3 @@
+ witaj z echo
+ druga linia
++hejka

@@ -1,2 +1,6 @@
 witaj z echo
-druga linia
+druga linia - dodane ze stara_1
+3 lina
+4 lina
+5 linia
+

@@ -1,3 +1,4 @@
 logs/**/*.log
 !logs/specjalny.log
 
+.git_credentials

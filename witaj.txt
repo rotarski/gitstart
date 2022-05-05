@@ -5,3 +5,5 @@ druga linia - dodane ze stara_1
 5 linia
 
 merge from repo1
+merge
+
